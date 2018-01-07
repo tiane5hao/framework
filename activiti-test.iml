@@ -63,5 +63,6 @@
     <orderEntry type="library" name="Maven: org.drools:drools-templates:7.0.0.Final" level="project" />
     <orderEntry type="library" name="Maven: org.kie:kie-api:7.0.0.Final" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.7" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
   </component>
 </module>
